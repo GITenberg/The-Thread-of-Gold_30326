@@ -1,0 +1,30 @@
+_repo: The-Thread-of-Gold_30326
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benson, Arthur Christopher
+    aliases:
+    - Benson, A. C. (Arthur Christopher)
+    - Carr, Christopher
+    birthdate: 1862
+    deathdate: 1925
+    gutenberg_agent_id: '1486'
+    url: http://www.gutenberg.org/2009/agents/1486
+    wikipedia: http://en.wikipedia.org/wiki/A._C._Benson
+description: ''
+gutenberg_issued: '2009-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PR'
+title: The Thread of Gold
+url: http://www.gutenberg.org/ebooks/30326
